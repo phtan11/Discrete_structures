@@ -1,0 +1,17 @@
+
+//cách vẽ đồ thị và ngược lại ma trận
+
+  a b c d	Trọng số là nối hay đỉnh lại với nhau.
+a 0 3 5 2
+b 3 0 2 0
+c 5 2 0 3
+d 2 0 3 0
+
+
+
+  a b c d e 
+a 0 2 6 0 1
+b 2 0 0 3 0
+c 6 0 0 2 0  (sai c-d)
+d 0 3 2 0 2
+e 1 0 0 2 0
